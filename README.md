@@ -4,9 +4,9 @@
 
 ## Скачать и запустить
 
-**[Скачать демо 0.0.1 для Windows x64](https://github.com/progamer-gachist-019/POE_DENISI-releases/releases/download/v0.0.1/POE_DENISI-0.0.1-windows-x64.zip)** · [Описание версии](https://github.com/progamer-gachist-019/POE_DENISI-releases/releases/tag/v0.0.1) · [Все версии](https://github.com/progamer-gachist-019/POE_DENISI-releases/releases)
+**[Все версии](https://github.com/progamer-gachist-019/POE_DENISI-releases/releases)**
 
-1. Скачайте ZIP по ссылке выше — вход в GitHub не нужен.
+1. Откройте список версий по ссылке выше и скачайте ZIP нужного релиза — вход в GitHub не нужен.
 2. Распакуйте весь архив в одну папку.
 3. Запустите **POE_DENISI.exe**. Godot устанавливать не нужно.
 
